@@ -15,7 +15,7 @@ git checkout -b version1_diffusion
 ```
 
 you would be having a new branch named version1_diffusion
-![image](images/branch.png)
+![image](./images/branch.png)
 
 # deleting the branch
 ```
