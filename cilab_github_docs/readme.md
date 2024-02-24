@@ -6,7 +6,7 @@
 git add main.py # for adding a single file
 git add . # for adding all files
 git commit -m "message" 
-git push origin master
+git push origin version1_diffusion
 ```
 
 ## Creating a new branch
